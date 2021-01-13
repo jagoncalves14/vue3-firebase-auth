@@ -1,8 +1,44 @@
 ![Vue.js Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/vue.svg)
 
-# Vue.js Example
+# Frontend
 
-This directory is a brief example of a [Vue.js](https://vuejs.org/) app that can be deployed with Vercel and zero configuration.
+This directory is a brief example of a [Vue.js](https://vuejs.org/) app on Vue3 demonstrating an Authentication with Firebase. This is currently being deployed with Vercel and zero configuration.
+
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
+```
+
+### Run your unit tests
+
+```
+npm run test:unit
+```
+
+### Lints and fixes files
+
+```
+npm run lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Vercel
 
 ## Deploy Your Own
 
